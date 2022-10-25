@@ -1,0 +1,17 @@
+p{
+    margin: 1px !important;
+}
+i{
+    margin-right: 10px;
+}
+img{
+    height: 180px;
+}
+.like , .edit{
+    border-right: 1px solid gainsboro;
+    text-align: center;
+    cursor: pointer;
+}
+.delet{
+    text-align: center;
+}
